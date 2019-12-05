@@ -72,4 +72,3 @@ pipeline {
         }
     }
 }
-© 2019 GitHub, Inc.
